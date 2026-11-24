@@ -5,7 +5,7 @@ Dexterous Manipulation and Robot Learning.” The site is plain HTML and CSS,
 with no build step or external dependencies, so GitHub Pages can serve it
 directly from this repository.
 
-**Live site: <https://cam-cambridge.github.io/phantom-ops-website/>**
+**Live site: <https://cam-cambridge.github.io/warm-t-website/>**
 
 ## Publish with GitHub Pages
 
